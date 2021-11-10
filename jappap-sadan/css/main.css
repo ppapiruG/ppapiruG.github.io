@@ -57,7 +57,7 @@ h2.sub_tit {font-size: 3rem;font-family:'Poppins', sans-serif;font-weight: 600;t
 .section01 .sec_imgs ol {margin-left: auto;}
 
 .section01 ul {height: 100%;position: relative;}
-.section01 ul li {position:relative;width: 80%;transition:.4s;padding: 35px;background-color: #f6f6f6;border: 1px solid #000;}
+.section01 ul li {position:relative;padding: 35px;background-color: #f6f6f6;border: 1px solid #000;}
 .section01 ul li.first {top:0;right:0;margin-left: auto;}
 .section01 ul li.second {transform: translateY(-37%);}
 .section01 ul li.third {transform: translateY(-70%);margin-left: auto;}

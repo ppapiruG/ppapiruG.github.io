@@ -1,0 +1,64 @@
+{
+    "team01":[
+        {
+            "name" : "김자빱",
+            "favorite" : "초밥",
+            "job" : "서터리머",
+            "favorability" : 15
+        },
+        {
+            "name" : "복대지",
+            "favorite" : "치킨너겟",
+            "job" : "n잡러",
+            "favorability" : 15
+        },
+        {
+            "name" : "박복수",
+            "favorite" : "스테이크",
+            "job" : "무시코인사장",
+            "favorability" : 15
+        },
+        {
+            "name" : "박람지",
+            "favorite" : "컵떡볶이",
+            "job" : "경찰",
+            "favorability" : 0
+        },
+        {
+            "name" : "김기린",
+            "favorite" : "어묵꼬치",
+            "job" : "옷가게사장",
+            "favorability" : 15
+        },
+        {
+            "name" : "이곡길",
+            "favorite" : "제육볶음",
+            "job" : "문방구사장",
+            "favorability" : 11
+        },
+        {
+            "name" : "나왕눈",
+            "favorite" : "쌍화탕",
+            "job" : "가맥집사장",
+            "favorability" : 12
+        },
+        {
+            "name" : "청꼬꼬",
+            "favorite" : "뭐였지",
+            "job" : "백수",
+            "favorability" : ""
+        },
+        {
+            "name" : "최덕구",
+            "favorite" : "물고기",
+            "job" : "공무원",
+            "favorability" : 15
+        },
+        {
+            "name" : "방국봉",
+            "favorite" : "안가림",
+            "job" : "당집알바",
+            "favorability" : 15
+        }
+    ]
+}
